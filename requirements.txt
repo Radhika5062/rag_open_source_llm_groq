@@ -1,0 +1,16 @@
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
+groq
+cassio
+beautifulsoup4
+langchain_groq
+wikipedia
+arxiv
+langchainhub
+streamlit
+langchain_community
+langchain
+python-dotenv
